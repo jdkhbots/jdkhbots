@@ -13,11 +13,19 @@ Here are some Projects I have worked on, you can click on them to know the detai
   
   - [Spot Transfer](https://github.com/jdkhbots/Spot-Transfer)
 
+ 
+- <b>csvRowBlot</b>
+ 
+  This project was for inspired by a client who asked me to remove a certain gender from a long list of names which he had given me to type earlier.
+ 
+  - [csvRowBlot](https://github.com/jdkhbots/csvRowBlot)
+ 
   
 - <b>Waving Flag with Python Turtle</b>
 
   I used turtle in python to design the flag of Ghana.
   - [Ghana Flag](https://github.com/jdkhbots/Ghanaflag)
+
  
   
 <h2>Group Projects</h2>
