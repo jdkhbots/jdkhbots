@@ -1,38 +1,19 @@
 ### Hi there 👋
 
 <h1>I'm John Derek! <br/>
- <a>Mechanical Engineering Student</a>, <a>Programming Enthusiast</a>
+ <a>Mechanical Design Engineer</a>, <a>AI/Robotics Enthusiast</a>
 
-<h2>👨‍💻 Personal Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
-Here are some Projects I have worked on, you can click on them to know the details.
-  
-- <b>Spot Mobile Money Transfer</b>
+| Project | Description | Link |
+|---------|-------------|------|
+| **Text-to-CAD** | Python tool that converts text prompts into parametric 3D CAD models | [GitHub](https://github.com/jdkhbots/Text-to-CAD) |
+| **Shaft Design Calculation Automation** | Computes reactions, SFD, BMD from user inputs | [GitHub](https://github.com/jdkhbots/Shaft-Design-Calculation-Automation) |
+| **csvRowBlot** | Removes specific entries from large CSV files | [GitHub](https://github.com/jdkhbots/csvRowBlot) |
+| **Waving Flag with Python Turtle** | Designs the flag of Ghana using Python Turtle | [GitHub](https://github.com/jdkhbots/Ghanaflag) |
+| **Random Group Generator** | Generates groups from text files, teamwork project | [GitHub](https://github.com/jdkhbots/RandomGroupGenerator) |
 
-  This project is on a fictional mobile money transfer system called 'spot'. It shows ways several improvements can be made.
-  
-  - [Spot Transfer](https://github.com/jdkhbots/Spot-Transfer)
 
- 
-- <b>csvRowBlot</b>
- 
-  This project was for inspired by a client who asked me to remove a certain gender from a long list of names which he had given me to type earlier.
- 
-  - [csvRowBlot](https://github.com/jdkhbots/csvRowBlot)
- 
-  
-- <b>Waving Flag with Python Turtle</b>
-
-  I used turtle in python to design the flag of Ghana.
-  - [Ghana Flag](https://github.com/jdkhbots/Ghanaflag)
-
- 
-  
-<h2>Group Projects</h2>
-- <b>Random Group Generator</b>
-
-With 2 other team mates, we wrote from scratch this code which generates groups from txt files according to the number the user requires in each group.
-  - [Random Group Generator](https://github.com/jdkhbots/RandomGroupGenerator)
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -41,18 +22,3 @@ With 2 other team mates, we wrote from scratch this code which generates groups 
 
 [linkedin]:https://www.linkedin.com/in/jdkhagan/
 
-
-<!--
-**jdkhbots/jdkhbots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
